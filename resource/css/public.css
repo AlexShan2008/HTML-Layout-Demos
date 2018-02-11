@@ -1,0 +1,33 @@
+/* css reset */
+body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,hr,input,legend,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0}
+h1,h2,h3,h4,h5,h6{font-style: normal;font-weight: 400;}
+l,ul{list-style:none}img{border:0;}
+a{text-decoration:none}a:hover{text-decoration:none}a:link,a:visited{color:#999}
+.clearfix:after,.clearfix:before{display:table;content:"";overflow:hidden}
+.clearfix:after{clear:both} .clearfix{zoom:1}
+/* float */
+.lfloat{float: left;}
+.rfloat{float: right;}
+/* display */
+.dis_line{display: inline-block}
+.dis_block{display: block}
+.hide{display: none}
+.show{display: block}
+/* color */
+.fff{color: #fff;}
+.c000{color: #000;}
+.c333{color: #333;}
+.c666{color: #666;}
+.c999{color: #999;}
+.c999_bg{background-color: #999;}
+/* font size */
+.font_12{font-size: 12px;}
+.font_14{font-size: 14px;}
+.font_16{font-size: 16px;}
+.font_18{font-size: 18px;}
+.font_20{font-size: 20px;}
+.font_22{font-size: 22px;}
+/* text align */
+.ali_c{text-align: center}
+.ali_l{text-align: left}
+.ali_r{text-align: right}
