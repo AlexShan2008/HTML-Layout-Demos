@@ -5,6 +5,8 @@ l,ul{list-style:none}img{border:0;}
 a{text-decoration:none}a:hover{text-decoration:none}a:link,a:visited{color:#999}
 .clearfix:after,.clearfix:before{display:table;content:"";overflow:hidden}
 .clearfix:after{clear:both} .clearfix{zoom:1}
+/* box-sizing = border-box */
+*,*:after,*:before{box-sizing: border-box;}
 /* float */
 .lfloat{float: left;}
 .rfloat{float: right;}
